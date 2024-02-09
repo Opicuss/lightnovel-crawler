@@ -8,5 +8,6 @@ class ReadWNCrawler(NovelMTLTemplate):
     has_mtl = True
     base_url = [
         "https://www.readwn.com/",
-        "https://www.wuxiap.com/"
+        "https://www.wuxiap.com/",
+        "https://www.wuxiabee.com/"
     ]
